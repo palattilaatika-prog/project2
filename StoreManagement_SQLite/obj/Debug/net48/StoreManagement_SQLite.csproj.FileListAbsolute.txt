@@ -1,0 +1,16 @@
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.csproj.AssemblyReference.cache
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.AssemblyInfoInputs.cache
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.AssemblyInfo.cs
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\StoreManagement_SQLite.exe.config
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\StoreManagement_SQLite.exe
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\StoreManagement_SQLite.pdb
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\EntityFramework.SqlServer.dll
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\EntityFramework.dll
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\System.Data.SQLite.dll
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\System.Data.SQLite.EF6.dll
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\bin\Debug\net48\System.Data.SQLite.Linq.dll
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreMan.8F1876BB.Up2Date
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.exe
+C:\Users\Denes\source\repos\Project2\StoreManagement_SQLite\obj\Debug\net48\StoreManagement_SQLite.pdb
